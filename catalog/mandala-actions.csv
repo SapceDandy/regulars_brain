@@ -1,0 +1,65 @@
+id,venture,pillar,action,cadence,instructions,status
+R1.1,Regulars,R1 - Venue sales,List 10 locker-ready venues,Setup; refresh weekly,Identify ten venues with existing lockers or a realistic funded installation plan.,unverified_historical_plan
+R1.2,Regulars,R1 - Venue sales,Interview 3 owners,Weekly while validating,"Ask three owners about regular guests, quiet periods, space, and service constraints.",unverified_historical_plan
+R1.3,Regulars,R1 - Venue sales,Inspect locker readiness,Before a proposal,"Review available space, usable lockers, staff access, and who owns installation work.",unverified_historical_plan
+R1.4,Regulars,R1 - Venue sales,Map the revenue baseline,Before a proposal,"Ask for available membership, visit, and spending records; note missing data.",unverified_historical_plan
+R1.5,Regulars,R1 - Venue sales,Write one pilot offer,Per qualified venue,"Specify setup work, recurring service, responsibilities, fees, and measurement.",unverified_historical_plan
+R1.6,Regulars,R1 - Venue sales,Demo the member journey,Per interested owner,"Show enrollment, member identification, locker lookup, and staff check-in.",unverified_historical_plan
+R1.7,Regulars,R1 - Venue sales,Confirm launch ownership,Before committing,"Name the venue sponsor and staff lead; agree access, dates, and operating rules.",unverified_historical_plan
+R1.8,Regulars,R1 - Venue sales,Follow up on the decision,On agreed dates,Follow up on the pilot proposal and record the owner's next decision or objection.,unverified_historical_plan
+R2.1,Regulars,R2 - Membership value,Interview 5 regular guests,Per pilot venue,"Ask five existing regulars what access, recognition, and benefits they would pay for.",unverified_historical_plan
+R2.2,Regulars,R2 - Membership value,Specify exact entitlements,Before enrollment,"Write what the membership includes, excludes, and requires to use each benefit.",unverified_historical_plan
+R2.3,Regulars,R2 - Membership value,Set capacity-based tiers,Before enrollment,"Match individual and group tiers to real locker, seat, and staff capacity.",unverified_historical_plan
+R2.4,Regulars,R2 - Membership value,Calculate benefit cost,Per tier revision,Estimate the venue's actual cost of each proposed benefit and likely usage.,unverified_historical_plan
+R2.5,Regulars,R2 - Membership value,Write reservation rules,Before enrollment,"Define availability, booking windows, grace periods, guest rules, and release conditions.",unverified_historical_plan
+R2.6,Regulars,R2 - Membership value,Confirm venue-approved terms,Before enrollment,"Have the venue confirm benefit, service, payment, and refund terms for its operation.",unverified_historical_plan
+R2.7,Regulars,R2 - Membership value,Test price with prospects,Before launch,Present a real price and terms to suitable guests; record objections and commitments.,unverified_historical_plan
+R2.8,Regulars,R2 - Membership value,Refine the weak benefit,Monthly,Use member feedback and usage records to improve one poorly understood benefit.,unverified_historical_plan
+R3.1,Regulars,R3 - Lockers + inventory,Count usable lockers,Before selling capacity,Inspect and count usable lockers; remove unavailable spaces from sellable inventory.,unverified_historical_plan
+R3.2,Regulars,R3 - Lockers + inventory,Assign durable locker IDs,Setup,Label each locker and connect its ID to the venue's inventory record.,unverified_historical_plan
+R3.3,Regulars,R3 - Lockers + inventory,Record assigned members,Per enrollment,Link the approved member or group to the correct locker and access terms.,unverified_historical_plan
+R3.4,Regulars,R3 - Lockers + inventory,Label approved bottle stock,Per venue procedure,"Record each permitted bottle with an ID, owner, and required service information.",unverified_historical_plan
+R3.5,Regulars,R3 - Lockers + inventory,Log stock changes,Per stock movement,"Record approved additions, service changes, and removals through the staff workflow.",unverified_historical_plan
+R3.6,Regulars,R3 - Lockers + inventory,Reconcile physical inventory,Weekly during pilots,Compare actual lockers and bottle records; investigate discrepancies with staff.,unverified_historical_plan
+R3.7,Regulars,R3 - Lockers + inventory,Document staff access,Before launch,Agree who may access lockers and how staff record service and exceptions.,unverified_historical_plan
+R3.8,Regulars,R3 - Lockers + inventory,Resolve damaged inventory,When discovered,Record damage or missing items and follow the venue's agreed resolution procedure.,unverified_historical_plan
+R4.1,Regulars,R4 - Member + staff tools,Build one member record,Setup,"Store membership status, approved benefits, locker, group permissions, and expiry.",unverified_historical_plan
+R4.2,Regulars,R4 - Member + staff tools,Issue a scannable pass,Per enrollment,Provide a working QR or supported pass linked to the correct member record.,unverified_historical_plan
+R4.3,Regulars,R4 - Member + staff tools,Show a fast staff lookup,Before launch,"Make membership status, locker, and usable benefits easy to find on a phone.",unverified_historical_plan
+R4.4,Regulars,R4 - Member + staff tools,Record visits + group size,Per member visit,"Log the visit, time, and group size through an agreed staff check-in step.",unverified_historical_plan
+R4.5,Regulars,R4 - Member + staff tools,Display seat availability,Before selling seats,Keep available seat inventory and reservation status visible to the responsible staff.,unverified_historical_plan
+R4.6,Regulars,R4 - Member + staff tools,Keep an outage fallback,Before launch,Give staff an approved lookup and logging method when the usual tool is unavailable.,unverified_historical_plan
+R4.7,Regulars,R4 - Member + staff tools,Test a busy-shift scenario,Before launch,"Rehearse arrival, missing pass, expired membership, seat conflict, and a group visit.",unverified_historical_plan
+R4.8,Regulars,R4 - Member + staff tools,Fix staff friction first,Weekly during pilots,Ask staff what slows service and repair the highest-impact problem.,unverified_historical_plan
+R5.1,Regulars,R5 - Member acquisition,List likely founding members,With the venue,Ask staff to identify suitable existing regulars without exporting unnecessary private data.,unverified_historical_plan
+R5.2,Regulars,R5 - Member acquisition,Film the real experience,Per launch,"Capture approved locker, seating, and service footage with the venue's permission.",unverified_historical_plan
+R5.3,Regulars,R5 - Member acquisition,Publish a clear member page,Before enrollment,"Show real benefits, price, capacity, venue details, and the enrollment action.",unverified_historical_plan
+R5.4,Regulars,R5 - Member acquisition,Offer a brief locker tour,Per interested guest,Show the actual setup and explain benefits and rules before requesting payment.,unverified_historical_plan
+R5.5,Regulars,R5 - Member acquisition,Train the staff invitation,Before launch,Practice a short invitation that staff can give to suitable regular guests.,unverified_historical_plan
+R5.6,Regulars,R5 - Member acquisition,Share one local campaign,Per launch,Publish approved content through the venue and relevant local creator relationships.,unverified_historical_plan
+R5.7,Regulars,R5 - Member acquisition,Track each signup source,Per enrollment,"Record whether the member came from staff, social content, a creator, or a referral.",unverified_historical_plan
+R5.8,Regulars,R5 - Member acquisition,Review enrollment drop-offs,Weekly during launch,Ask interested nonbuyers what stopped enrollment and fix one repeated issue.,unverified_historical_plan
+R6.1,Regulars,R6 - Visits + renewal,Welcome each paid member,At enrollment,"Explain benefits, check-in, booking, and where to get help in one short welcome.",unverified_historical_plan
+R6.2,Regulars,R6 - Visits + renewal,Choose one quiet-day test,Weekly with the venue,Select an available low-traffic period and one approved reason for members to visit.,unverified_historical_plan
+R6.3,Regulars,R6 - Visits + renewal,Invite opted-in members,Per agreed test,Send a relevant visit invitation through the member's chosen communication channel.,unverified_historical_plan
+R6.4,Regulars,R6 - Visits + renewal,Record benefit usage,Per visit,Log which membership benefits were actually used or could not be fulfilled.,unverified_historical_plan
+R6.5,Regulars,R6 - Visits + renewal,Check absent members,Weekly,Review recent nonattendance and invite feedback from members who allow contact.,unverified_historical_plan
+R6.6,Regulars,R6 - Visits + renewal,Resolve service failures,When reported,Investigate an unavailable benefit and agree a repair with the venue and member.,unverified_historical_plan
+R6.7,Regulars,R6 - Visits + renewal,Ask for renewal feedback,Before term end,Ask what would make the membership worth continuing before requesting renewal.,unverified_historical_plan
+R6.8,Regulars,R6 - Visits + renewal,Review retention by cohort,Monthly,Compare renewal and usage for members who joined in the same period.,unverified_historical_plan
+R7.1,Regulars,R7 - Venue results,Agree a small scorecard,Before launch,"Choose a few shared metrics, definitions, data sources, and review dates.",unverified_historical_plan
+R7.2,Regulars,R7 - Venue results,Compare similar periods,Monthly,Compare matched days or event types and note seasonality and other promotions.,unverified_historical_plan
+R7.3,Regulars,R7 - Venue results,Request owner sales records,Monthly,Ask for the agreed aggregate or matched records the owner can actually provide.,unverified_historical_plan
+R7.4,Regulars,R7 - Venue results,Reconcile visits + spend,Monthly,Compare member check-ins with available records and mark unmatched data as unknown.,unverified_historical_plan
+R7.5,Regulars,R7 - Venue results,Separate revenue streams,Monthly,Report venue membership receipts separately from Regulars fees and operating costs.,unverified_historical_plan
+R7.6,Regulars,R7 - Venue results,Include service costs,Monthly,"Account for benefits, staff time, refunds, and fulfillment costs in the owner review.",unverified_historical_plan
+R7.7,Regulars,R7 - Venue results,Hold the owner review,Monthly,"Discuss what changed, what remains uncertain, and one improvement to test.",unverified_historical_plan
+R7.8,Regulars,R7 - Venue results,Ask to renew or expand,At the agreed review,Request continuation based on observed value and capacity; document the decision.,unverified_historical_plan
+R8.1,Regulars,R8 - Reliable operations,Name a venue champion,Before launch,Assign one owner or manager who can resolve questions and approve changes.,unverified_historical_plan
+R8.2,Regulars,R8 - Reliable operations,Train both shift teams,Before launch,"Rehearse enrollment, check-in, inventory, and exception handling with relevant shifts.",unverified_historical_plan
+R8.3,Regulars,R8 - Reliable operations,Write the exception guide,Before launch,"Document expired passes, seat conflicts, absent members, damaged stock, and refunds.",unverified_historical_plan
+R8.4,Regulars,R8 - Reliable operations,Review access permissions,At setup; monthly,Give staff only the access they need and remove access when roles change.,unverified_historical_plan
+R8.5,Regulars,R8 - Reliable operations,Log support + incidents,Per issue,"Record the problem, responsible person, response, and final resolution.",unverified_historical_plan
+R8.6,Regulars,R8 - Reliable operations,Measure service effort,Weekly during pilots,Record founder and venue staff time spent delivering and supporting the program.,unverified_historical_plan
+R8.7,Regulars,R8 - Reliable operations,Reconcile Regulars fees,Monthly,"Confirm amounts earned and collected, direct costs, and outstanding venue obligations.",unverified_historical_plan
+R8.8,Regulars,R8 - Reliable operations,Turn pilots into an SOP,After each launch,Update one launch checklist from what actually happened before adding another venue.,unverified_historical_plan

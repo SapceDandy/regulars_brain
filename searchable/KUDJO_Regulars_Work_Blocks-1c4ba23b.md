@@ -1,0 +1,474 @@
+# Extracted text: KUDJO_Regulars_Work_Blocks.ics
+
+Source: [sources/library/shared/KUDJO_Regulars_Work_Blocks.ics](../sources/library/shared/KUDJO_Regulars_Work_Blocks.ics)
+
+Extraction: ICS inventory and distinct titles; original contains full events. Source bytes remain authoritative. Layout, charts, images, and formulas may require opening the original.
+
+Events: 2430
+
+Earliest start: 20260308T020000
+
+Latest start: 20270406T211500
+
+This is an imported planning snapshot, not live calendar state.
+
+## Event titles
+
+- Shared: Inventory existing assets and available launch cash
+- Break: Walk and transition back to work
+- Break: Reset\, water and snack
+- KUDJO: KUDJO: choose one beauty-service subtype and contact ten owners
+- Break: Break away from the screen
+- Regulars: Regulars: shortlist ten locker-ready venues\; contact four owners
+- KUDJO: Audit current KUDJO signup -> booking -> payment evidence -> invoice
+- Break: Break and short walk
+- Shared: Freeze pilot fees\, cash boundaries and spend cap
+- Shared: Log hours\; set tomorrow's first task\; close work
+- KUDJO: Build one KUDJO merchant offer/booking page using existing product
+- Break: Break and prepare to move
+- Shared: Triage tracking\, access\, money issues and commitments
+- KUDJO: KUDJO owner interview 1
+- KUDJO: KUDJO owner interviews 2 and 3
+- KUDJO: Write the first KUDJO pilot agreement and baseline
+- Regulars: Build Regulars member\, locker and bottle records
+- Shared: Define two KUDJO AI presenters and script two truthful demo clips
+- KUDJO: KUDJO tagged-link\, completed-payment and refund rehearsal
+- Regulars: Regulars owner interview 1
+- Regulars: Regulars owner interviews 2 and 3
+- Regulars: Regulars pricing\, responsibilities and permit-specific review packet
+- Regulars: Regulars QR lookup\, six-seat inventory and outage fallback
+- Shared: Write both staff/merchant checklists and first reports
+- KUDJO: Run the KUDJO mobile journey and smallest fixes
+- KUDJO: KUDJO owner interview 4 and decision follow-up
+- KUDJO: Close the first KUDJO merchant and book the first real customer journey
+- Regulars: Close Regulars venue pilot and verify every launch prerequisite
+- Shared: Create\, approve and schedule the first two KUDJO clips
+- Shared: Launch readiness decision for both brands
+- Shared: Prepare merchant/venue visits\, scripts\, records and transport
+- Break: Recovery break
+- KUDJO: Publish the KUDJO merchant page and creator/campaign source links
+- Regulars: Publish the Regulars founding-member page and approved enrollment
+- Travel: Travel to a booked nearby KUDJO/merchant visit
+- KUDJO: KUDJO owner interview 5 and real service/footage walkthrough
+- Travel: Travel to the booked Regulars venue
+- Regulars: Regulars: inspect\, count and label actual lockers and bottle records
+- Regulars: Train Regulars manager and backup\; interview five founding guests
+- Travel: Return travel and handoff notes
+- Shared: Publish first approved KUDJO/Regulars content and welcome instructions
+- Shared: Reconcile first enrollments and the first campaign evidence
+- Shared: Record next actions and close the Saturday shift
+- Shared: Weekly cash / owner-pay check
+- KUDJO: KUDJO launch acceptance and initial owner result note
+- Regulars: Regulars launch acceptance and first shift report
+- Shared: Plan the next week from evidence
+- KUDJO: Trace the first KUDJO paid appointment and schedule next two merchants
+- Regulars: Check the first Regulars staff-run shift and founding cohort
+- Shared: Close seven-day operating week
+- KUDJO: Implement: Test duplicate\, refund\, missing-customer and mobile-booking paths\; fix the largest money blocker.
+- KUDJO: Booked owner evidence call or short follow-up
+- KUDJO: Contact ten researched KUDJO owners\; follow up five open decisions
+- KUDJO: Owner demos / onboarding / evidence review: Reconcile every first appointment\; recruit toward three merchants\; record acquisition cost.
+- Regulars: Delivery blocker: Complete exception guide\, backup lookup and staff access review.
+- Shared: Reconcile daily money / support\; finish the highest-priority missed task
+- Regulars: Implement: Complete exception guide\, backup lookup and staff access review.
+- Regulars: Booked owner evidence call or short follow-up
+- Regulars: Contact four locker-ready owners\; follow up three open proposals
+- Regulars: Venue demo / readiness / staff check: Complete first staff-run shift\; enroll toward ten VIPs\; test one quiet evening.
+- KUDJO: Delivery blocker: Test duplicate\, refund\, missing-customer and mobile-booking paths\; fix the largest money blocker.
+- KUDJO: Verify: Test duplicate\, refund\, missing-customer and mobile-booking paths\; fix the largest money blocker.
+- Shared: Content batch / publish: Compare one AI presenter against footage-only creative with equal capped distribution.
+- Regulars: Verify: Complete exception guide\, backup lookup and staff access review.
+- Shared: Verify: Every claimed conversion has a unique booking/payment reference\; review support hours.
+- Shared: Booked owner evidence call or short follow-up
+- Shared: Close open decisions\; collect earned invoices\; request useful introductions
+- Shared: Owner result calls and next-week operating commitments
+- Shared: Weekly list research\, tailored first contacts and source-footage preparation
+- KUDJO: Test duplicate\, refund\, missing-customer and mobile-booking paths\; fix the largest money blocker.
+- Regulars: Complete exception guide\, backup lookup and staff access review.
+- KUDJO: Booked merchant visit / service walkthrough: Reconcile every first appointment\; recruit toward three merchants\; record acquisition cost.
+- Regulars: Venue physical locker/receipt/capacity review: Complete first staff-run shift\; enroll toward ten VIPs\; test one quiet evening.
+- Regulars: Staff training / founding-member interviews / service audit
+- Shared: Batch approved footage and next week's three original posts
+- Shared: Reconcile both brands\; pause negative-margin or unready work
+- KUDJO: Weekly KUDJO owner report and bottleneck: Every claimed conversion has a unique booking/payment reference\; review support hours.
+- Regulars: Weekly Regulars operations / renewal review
+- KUDJO: Check live customer journey / source evidence / campaign economics
+- Regulars: Remote staff shift / visit activation check
+- KUDJO: Implement: Simplify customer steps after watching three new users\; agree a source-of-truth export.
+- KUDJO: Owner demos / onboarding / evidence review: Three signed campaigns or a documented reason for each stalled deal\; cumulative ten paid first appointments.
+- Regulars: Delivery blocker: Reconcile bottle receipts\, service estimates and physical lockers with the manager.
+- Regulars: Implement: Reconcile bottle receipts\, service estimates and physical lockers with the manager.
+- Regulars: Venue demo / readiness / staff check: One venue with ten paid VIPs\; staff can reconcile lockers without you.
+- KUDJO: Delivery blocker: Simplify customer steps after watching three new users\; agree a source-of-truth export.
+- KUDJO: Verify: Simplify customer steps after watching three new users\; agree a source-of-truth export.
+- Shared: Content batch / publish: Publish three real offer clips\; recruit five human creators for a separately priced test.
+- Regulars: Verify: Reconcile bottle receipts\, service estimates and physical lockers with the manager.
+- Shared: Verify: Report completed paid bookings separately from clicks\, booking requests and repeat visits.
+- KUDJO: Simplify customer steps after watching three new users\; agree a source-of-truth export.
+- Regulars: Reconcile bottle receipts\, service estimates and physical lockers with the manager.
+- KUDJO: Booked merchant visit / service walkthrough: Three signed campaigns or a documented reason for each stalled deal\; cumulative ten paid first appointments.
+- Regulars: Venue physical locker/receipt/capacity review: One venue with ten paid VIPs\; staff can reconcile lockers without you.
+- KUDJO: Weekly KUDJO owner report and bottleneck: Report completed paid bookings separately from clicks\, booking requests and repeat visits.
+- KUDJO: Implement: Replace repeated manual report work with one tested weekly report template.
+- KUDJO: Owner demos / onboarding / evidence review: Three fee-generating merchants\; target 25-30 verified first appointments\; invoice and collect earned fees.
+- Regulars: Delivery blocker: Ship six-seat/time inventory and test the fifteen-minute release rule.
+- Regulars: Implement: Ship six-seat/time inventory and test the fifteen-minute release rule.
+- Regulars: Venue demo / readiness / staff check: One paying venue\; target twenty paid VIPs within verified capacity.
+- KUDJO: Delivery blocker: Replace repeated manual report work with one tested weekly report template.
+- KUDJO: Verify: Replace repeated manual report work with one tested weekly report template.
+- Shared: Content batch / publish: Publish a permissioned first-result note with exact limits and no causal overclaim.
+- Regulars: Verify: Ship six-seat/time inventory and test the fifteen-minute release rule.
+- Shared: Verify: October 31 close: cash collected\, liabilities\, costs\, founder hours and renewal dates.
+- KUDJO: Replace repeated manual report work with one tested weekly report template.
+- Regulars: Ship six-seat/time inventory and test the fifteen-minute release rule.
+- KUDJO: Booked merchant visit / service walkthrough: Three fee-generating merchants\; target 25-30 verified first appointments\; invoice and collect earned fees.
+- Regulars: Venue physical locker/receipt/capacity review: One paying venue\; target twenty paid VIPs within verified capacity.
+- Shared: OCTOBER CLOSE CHECKPOINT: fees\, contribution and owner cash
+- KUDJO: Weekly KUDJO owner report and bottleneck: October 31 close: cash collected\, liabilities\, costs\, founder hours and renewal dates.
+- KUDJO: Implement: Resolve written Fidel use-case/price/coverage questions\; keep manual evidence until approved.
+- KUDJO: Owner demos / onboarding / evidence review: At least two of three merchants choose another campaign or continuation when appropriate.
+- Regulars: Delivery blocker: Prepare renewal messages and a report segmented by join date.
+- Regulars: Implement: Prepare renewal messages and a report segmented by join date.
+- Regulars: Venue demo / readiness / staff check: Prepare first eligible member renewals\; do not label a young cohort a thirty-day result.
+- KUDJO: Delivery blocker: Resolve written Fidel use-case/price/coverage questions\; keep manual evidence until approved.
+- KUDJO: Verify: Resolve written Fidel use-case/price/coverage questions\; keep manual evidence until approved.
+- Shared: Content batch / publish: Repeat the content/offer that produced paid demand\; stop the losing test.
+- Regulars: Verify: Prepare renewal messages and a report segmented by join date.
+- Shared: Verify: November 6 checkpoint: assess willingness to pay\; reset forecast using measured costs.
+- Shared: ONE MONTH CHECKPOINT: fees\, contribution and owner cash
+- KUDJO: Resolve written Fidel use-case/price/coverage questions\; keep manual evidence until approved.
+- Regulars: Prepare renewal messages and a report segmented by join date.
+- KUDJO: Booked merchant visit / service walkthrough: At least two of three merchants choose another campaign or continuation when appropriate.
+- Regulars: Venue physical locker/receipt/capacity review: Prepare first eligible member renewals\; do not label a young cohort a thirty-day result.
+- KUDJO: Weekly KUDJO owner report and bottleneck: November 6 checkpoint: assess willingness to pay\; reset forecast using measured costs.
+- KUDJO: Implement: Separate AI-owned campaign fees from creator payable balances and fee rules.
+- KUDJO: Owner demos / onboarding / evidence review: Continue toward four merchants\; improve cost per paid first appointment.
+- Regulars: Delivery blocker: Audit first thirty-day returns\, fulfillment failures and membership renewals.
+- Regulars: Implement: Audit first thirty-day returns\, fulfillment failures and membership renewals.
+- Regulars: Venue demo / readiness / staff check: Review October 11 member cohort on its actual renewal date\; target 70% eligible renewal.
+- KUDJO: Delivery blocker: Separate AI-owned campaign fees from creator payable balances and fee rules.
+- KUDJO: Verify: Separate AI-owned campaign fees from creator payable balances and fee rules.
+- Shared: Content batch / publish: Create one owner case study and three useful local offer clips.
+- Regulars: Verify: Audit first thirty-day returns\, fulfillment failures and membership renewals.
+- Shared: Verify: Count only eligible renewals\; investigate churn before recruiting more capacity.
+- KUDJO: Separate AI-owned campaign fees from creator payable balances and fee rules.
+- Regulars: Audit first thirty-day returns\, fulfillment failures and membership renewals.
+- KUDJO: Booked merchant visit / service walkthrough: Continue toward four merchants\; improve cost per paid first appointment.
+- Regulars: Venue physical locker/receipt/capacity review: Review October 11 member cohort on its actual renewal date\; target 70% eligible renewal.
+- KUDJO: Weekly KUDJO owner report and bottleneck: Count only eligible renewals\; investigate churn before recruiting more capacity.
+- KUDJO: Implement: Automate one verified completion-to-report step with a manual fallback.
+- KUDJO: Owner demos / onboarding / evidence review: Four to five paying merchants with a reproducible onboarding checklist.
+- Regulars: Delivery blocker: Duplicate Core configuration\; train champion and backup at venue two.
+- Regulars: Implement: Duplicate Core configuration\; train champion and backup at venue two.
+- Regulars: Venue demo / readiness / staff check: Sign and prepare venue two using existing or venue-funded lockers.
+- KUDJO: Delivery blocker: Automate one verified completion-to-report step with a manual fallback.
+- KUDJO: Verify: Automate one verified completion-to-report step with a manual fallback.
+- Shared: Content batch / publish: Use the first venue/merchant evidence in ten specific owner follow-ups.
+- Regulars: Verify: Duplicate Core configuration\; train champion and backup at venue two.
+- Shared: Verify: Measure onboarding hours\; no third implementation while either pilot is unstable.
+- KUDJO: Automate one verified completion-to-report step with a manual fallback.
+- Regulars: Duplicate Core configuration\; train champion and backup at venue two.
+- KUDJO: Booked merchant visit / service walkthrough: Four to five paying merchants with a reproducible onboarding checklist.
+- Regulars: Venue physical locker/receipt/capacity review: Sign and prepare venue two using existing or venue-funded lockers.
+- KUDJO: Weekly KUDJO owner report and bottleneck: Measure onboarding hours\; no third implementation while either pilot is unstable.
+- KUDJO: Implement: Review AI-versus-footage experiment\; keep only the channel with positive contribution.
+- KUDJO: Owner demos / onboarding / evidence review: November 25: target 30 verified first appointments\, positive contribution and two of three continuing merchants.
+- Regulars: Delivery blocker: Audit holiday staffing\, unavailable seats and exception contacts.
+- Regulars: Implement: Audit holiday staffing\, unavailable seats and exception contacts.
+- Regulars: Venue demo / readiness / staff check: Maintain service and renewal during the holiday week\; no unsupported new benefits.
+- KUDJO: Delivery blocker: Review AI-versus-footage experiment\; keep only the channel with positive contribution.
+- KUDJO: Verify: Review AI-versus-footage experiment\; keep only the channel with positive contribution.
+- Shared: Content batch / publish: Schedule approved holiday content in advance\; November 26 is support/review only.
+- Shared: KUDJO 45-DAY PILOT DECISION
+- Shared: Thanksgiving: check money\, access and urgent support
+- Shared: Reconcile reports\, commitments and scheduled posts
+- Shared: Prepare tomorrow's priorities and staff handoff
+- Shared: Verify: If the KUDJO trial misses its gates\, revise segment/offer/channel before expansion.
+- KUDJO: Review AI-versus-footage experiment\; keep only the channel with positive contribution.
+- Regulars: Audit holiday staffing\, unavailable seats and exception contacts.
+- KUDJO: Booked merchant visit / service walkthrough: November 25: target 30 verified first appointments\, positive contribution and two of three continuing merchants.
+- Regulars: Venue physical locker/receipt/capacity review: Maintain service and renewal during the holiday week\; no unsupported new benefits.
+- KUDJO: Weekly KUDJO owner report and bottleneck: If the KUDJO trial misses its gates\, revise segment/offer/channel before expansion.
+- KUDJO: Implement: Add onboarding validation and weekly invoice reconciliation for six merchants.
+- KUDJO: Owner demos / onboarding / evidence review: Six fee-generating merchants\; target ninety paid first appointments per rolling month.
+- Regulars: Delivery blocker: Finish second-venue launch and receipt matching\; reconcile each receipt once.
+- Regulars: Implement: Finish second-venue launch and receipt matching\; reconcile each receipt once.
+- Regulars: Venue demo / readiness / staff check: Two paying venues\; target thirty to forty paid VIPs total.
+- KUDJO: Delivery blocker: Add onboarding validation and weekly invoice reconciliation for six merchants.
+- KUDJO: Verify: Add onboarding validation and weekly invoice reconciliation for six merchants.
+- Shared: Content batch / publish: Publish a comparison of the two strongest offer messages\; keep fees transparent.
+- Regulars: Verify: Finish second-venue launch and receipt matching\; reconcile each receipt once.
+- Shared: Verify: December 6: positive contribution in both brands and a credible path to the next capacity level.
+- KUDJO: Add onboarding validation and weekly invoice reconciliation for six merchants.
+- Regulars: Finish second-venue launch and receipt matching\; reconcile each receipt once.
+- KUDJO: Booked merchant visit / service walkthrough: Six fee-generating merchants\; target ninety paid first appointments per rolling month.
+- Regulars: Venue physical locker/receipt/capacity review: Two paying venues\; target thirty to forty paid VIPs total.
+- Shared: TWO MONTHS CHECKPOINT: fees\, contribution and owner cash
+- KUDJO: Weekly KUDJO owner report and bottleneck: December 6: positive contribution in both brands and a credible path to the next capacity level.
+- KUDJO: Implement: Improve the lowest-converting step using recorded user friction.
+- KUDJO: Owner demos / onboarding / evidence review: Keep acquisition spend inside the verified unit-margin limit.
+- Regulars: Delivery blocker: Owner decides to renew\, revise or stop\; record displacement of existing spend.
+- Regulars: Implement: Owner decides to renew\, revise or stop\; record displacement of existing spend.
+- Regulars: Venue demo / readiness / staff check: December 10: evaluate twenty lockers\, eligible returns/renewals\, receipt matching and incremental venue contribution.
+- KUDJO: Delivery blocker: Improve the lowest-converting step using recorded user friction.
+- KUDJO: Verify: Improve the lowest-converting step using recorded user friction.
+- Shared: Content batch / publish: Publish a permissioned operating story only after reconciliation.
+- Regulars: Verify: Owner decides to renew\, revise or stop\; record displacement of existing spend.
+- Shared: REGULARS 60-DAY PILOT DECISION
+- Shared: Verify: Require >=50% thirty-day returns\, >=70% eligible renewal\, >=90% receipt matching and positive venue contribution as test gates.
+- KUDJO: Improve the lowest-converting step using recorded user friction.
+- Regulars: Owner decides to renew\, revise or stop\; record displacement of existing spend.
+- KUDJO: Booked merchant visit / service walkthrough: Keep acquisition spend inside the verified unit-margin limit.
+- Regulars: Venue physical locker/receipt/capacity review: December 10: evaluate twenty lockers\, eligible returns/renewals\, receipt matching and incremental venue contribution.
+- KUDJO: Weekly KUDJO owner report and bottleneck: Require >=50% thirty-day returns\, >=70% eligible renewal\, >=90% receipt matching and positive venue contribution as test gates.
+- KUDJO: Implement: Save one setup template and source-specific fee configuration.
+- KUDJO: Owner demos / onboarding / evidence review: Seven to eight merchants\; consistent per-merchant reporting and fee collection.
+- Regulars: Delivery blocker: Turn real launch exceptions into a reusable staff SOP.
+- Regulars: Implement: Turn real launch exceptions into a reusable staff SOP.
+- Regulars: Venue demo / readiness / staff check: Prepare venue three only after venue one operating/renewal evidence supports it.
+- KUDJO: Delivery blocker: Save one setup template and source-specific fee configuration.
+- KUDJO: Verify: Save one setup template and source-specific fee configuration.
+- Shared: Content batch / publish: Batch three new offer clips from approved source footage\; keep owner-facing proof separate.
+- Regulars: Verify: Turn real launch exceptions into a reusable staff SOP.
+- Shared: Verify: Onboarding hours and recurring support must trend down\; measure rather than assume.
+- KUDJO: Save one setup template and source-specific fee configuration.
+- Regulars: Turn real launch exceptions into a reusable staff SOP.
+- KUDJO: Booked merchant visit / service walkthrough: Seven to eight merchants\; consistent per-merchant reporting and fee collection.
+- Regulars: Venue physical locker/receipt/capacity review: Prepare venue three only after venue one operating/renewal evidence supports it.
+- KUDJO: Weekly KUDJO owner report and bottleneck: Onboarding hours and recurring support must trend down\; measure rather than assume.
+- KUDJO: Implement: Test backup/export and restore a sample booking record.
+- KUDJO: Owner demos / onboarding / evidence review: Keep existing campaigns accurate\; respond to money errors within scheduled windows.
+- Regulars: Delivery blocker: Verify backup lookup and staff contact sheet\; no broad new release.
+- Regulars: Implement: Verify backup lookup and staff contact sheet\; no broad new release.
+- Regulars: Venue demo / readiness / staff check: Keep passes\, locker records and staff handoff available through Christmas.
+- KUDJO: Delivery blocker: Test backup/export and restore a sample booking record.
+- KUDJO: Verify: Test backup/export and restore a sample booking record.
+- Shared: Content batch / publish: Pre-schedule the week\; December 25 is a short support/review day.
+- Regulars: Verify: Verify backup lookup and staff contact sheet\; no broad new release.
+- Shared: Christmas: check money\, access and urgent support
+- KUDJO: Test backup/export and restore a sample booking record.
+- Regulars: Verify backup lookup and staff contact sheet\; no broad new release.
+- KUDJO: Booked merchant visit / service walkthrough: Keep existing campaigns accurate\; respond to money errors within scheduled windows.
+- Regulars: Venue physical locker/receipt/capacity review: Keep passes\, locker records and staff handoff available through Christmas.
+- KUDJO: Weekly KUDJO owner report and bottleneck: Record actual customer use and refunds\; do not infer demand from holiday views.
+- KUDJO: Implement: Correct any ledger/export drift\; archive permissioned evidence.
+- KUDJO: Owner demos / onboarding / evidence review: Reconcile all earned/collected fees\, creator liabilities and customer adjustments.
+- Regulars: Delivery blocker: Review every venue agreement and next renewal date.
+- Regulars: Implement: Review every venue agreement and next renewal date.
+- Regulars: Venue demo / readiness / staff check: Reconcile dues handled by venues\, Regulars invoices and outstanding service obligations.
+- KUDJO: Delivery blocker: Correct any ledger/export drift\; archive permissioned evidence.
+- KUDJO: Verify: Correct any ledger/export drift\; archive permissioned evidence.
+- Shared: Content batch / publish: Publish one honest lessons post\; January 1 is a short support/review day.
+- Regulars: Verify: Review every venue agreement and next renewal date.
+- Shared: New Year: check money\, access and urgent support
+- KUDJO: Correct any ledger/export drift\; archive permissioned evidence.
+- Regulars: Review every venue agreement and next renewal date.
+- KUDJO: Booked merchant visit / service walkthrough: Reconcile all earned/collected fees\, creator liabilities and customer adjustments.
+- Regulars: Venue physical locker/receipt/capacity review: Reconcile dues handled by venues\, Regulars invoices and outstanding service obligations.
+- KUDJO: Weekly KUDJO owner report and bottleneck: Separate setup cash\, merchant funds and recurring platform contribution.
+- Shared: MANDALA DAY 90 REVIEW AND NEXT-WEEK PLAN
+- KUDJO: Implement: Keep source-of-truth data and automated reports reliable across ten merchants.
+- KUDJO: Owner demos / onboarding / evidence review: Ten active paying merchants\; target 180 paid first appointments per rolling month.
+- Regulars: Delivery blocker: Confirm every venue champion can operate Core without founder attendance.
+- Regulars: Implement: Confirm every venue champion can operate Core without founder attendance.
+- Regulars: Venue demo / readiness / staff check: Three functioning paid locker pilots\; target fifty to sixty VIPs\; obtain eligible renewal decisions.
+- KUDJO: Delivery blocker: Keep source-of-truth data and automated reports reliable across ten merchants.
+- KUDJO: Verify: Keep source-of-truth data and automated reports reliable across ten merchants.
+- Shared: Content batch / publish: Use verified case studies to request one introduction per satisfied buyer.
+- Shared: THREE MONTHS CHECKPOINT: fees\, contribution and owner cash
+- Regulars: Verify: Confirm every venue champion can operate Core without founder attendance.
+- Shared: Verify: January 6: compare original 90-day Mandala outcomes with real fees\, use and effort.
+- KUDJO: Keep source-of-truth data and automated reports reliable across ten merchants.
+- Regulars: Confirm every venue champion can operate Core without founder attendance.
+- KUDJO: Booked merchant visit / service walkthrough: Ten active paying merchants\; target 180 paid first appointments per rolling month.
+- Regulars: Venue physical locker/receipt/capacity review: Three functioning paid locker pilots\; target fifty to sixty VIPs\; obtain eligible renewal decisions.
+- KUDJO: Weekly KUDJO owner report and bottleneck: January 6: compare original 90-day Mandala outcomes with real fees\, use and effort.
+- KUDJO: Implement: Create a demo seeded with labeled sample data and an exact evidence checklist.
+- KUDJO: Owner demos / onboarding / evidence review: Qualify owner introductions and replace low-fit or inactive merchants.
+- Regulars: Delivery blocker: Create a repeatable venue readiness and capacity audit.
+- Regulars: Implement: Create a repeatable venue readiness and capacity audit.
+- Regulars: Venue demo / readiness / staff check: Sell a specific fourth venue pilot using measured costs and staff effort.
+- KUDJO: Delivery blocker: Create a demo seeded with labeled sample data and an exact evidence checklist.
+- KUDJO: Verify: Create a demo seeded with labeled sample data and an exact evidence checklist.
+- Shared: Content batch / publish: Record two owner objections and answer each with one clear content piece.
+- Regulars: Verify: Create a repeatable venue readiness and capacity audit.
+- Shared: Verify: Review contacted accounts -> qualified calls -> signed deals -> active paying buyers.
+- KUDJO: Create a demo seeded with labeled sample data and an exact evidence checklist.
+- Regulars: Create a repeatable venue readiness and capacity audit.
+- KUDJO: Booked merchant visit / service walkthrough: Qualify owner introductions and replace low-fit or inactive merchants.
+- Regulars: Venue physical locker/receipt/capacity review: Sell a specific fourth venue pilot using measured costs and staff effort.
+- KUDJO: Weekly KUDJO owner report and bottleneck: Review contacted accounts -> qualified calls -> signed deals -> active paying buyers.
+- KUDJO: Implement: Document the content/report runbook\; price a paid bounded handoff from operating cash.
+- KUDJO: Owner demos / onboarding / evidence review: Use measured unit costs to scope repetitive content/report work.
+- Regulars: Delivery blocker: Document support escalation and permissions\; keep venue custody/service with venue.
+- Regulars: Implement: Document support escalation and permissions\; keep venue custody/service with venue.
+- Regulars: Venue demo / readiness / staff check: Scope recurring inventory reconciliation and staff support without transferring venue duties.
+- KUDJO: Delivery blocker: Document the content/report runbook\; price a paid bounded handoff from operating cash.
+- KUDJO: Verify: Document the content/report runbook\; price a paid bounded handoff from operating cash.
+- Shared: Content batch / publish: Trial one contractor batch only if funded within the existing cost allowance.
+- Regulars: Verify: Document support escalation and permissions\; keep venue custody/service with venue.
+- Shared: Verify: Avoid double-counting contractor cost\; pay only against an accepted scope and available cash.
+- KUDJO: Document the content/report runbook\; price a paid bounded handoff from operating cash.
+- Regulars: Document support escalation and permissions\; keep venue custody/service with venue.
+- KUDJO: Booked merchant visit / service walkthrough: Use measured unit costs to scope repetitive content/report work.
+- Regulars: Venue physical locker/receipt/capacity review: Scope recurring inventory reconciliation and staff support without transferring venue duties.
+- KUDJO: Weekly KUDJO owner report and bottleneck: Avoid double-counting contractor cost\; pay only against an accepted scope and available cash.
+- KUDJO: Implement: Test daily completion import and refund reversal where accessible.
+- KUDJO: Owner demos / onboarding / evidence review: Twelve to thirteen merchants\; reduce founder minutes per completed appointment.
+- Regulars: Delivery blocker: Verify staff lookup\, inventory and seat state at all four venues.
+- Regulars: Implement: Verify staff lookup\, inventory and seat state at all four venues.
+- Regulars: Venue demo / readiness / staff check: Four paying venues\; review bottlenecks before venue five.
+- KUDJO: Delivery blocker: Test daily completion import and refund reversal where accessible.
+- KUDJO: Verify: Test daily completion import and refund reversal where accessible.
+- Shared: Content batch / publish: Produce approved reusable offer formats\; rotate by proven merchant demand.
+- Regulars: Verify: Verify staff lookup\, inventory and seat state at all four venues.
+- Shared: Verify: Count founder sales/delivery/travel hours against the 34.5-hour operating budget.
+- KUDJO: Test daily completion import and refund reversal where accessible.
+- Regulars: Verify staff lookup\, inventory and seat state at all four venues.
+- KUDJO: Booked merchant visit / service walkthrough: Twelve to thirteen merchants\; reduce founder minutes per completed appointment.
+- Regulars: Venue physical locker/receipt/capacity review: Four paying venues\; review bottlenecks before venue five.
+- KUDJO: Weekly KUDJO owner report and bottleneck: Count founder sales/delivery/travel hours against the 34.5-hour operating budget.
+- KUDJO: Implement: Establish reliable batch invoices and merchant reactivation queue.
+- KUDJO: Owner demos / onboarding / evidence review: Fourteen active merchants\; target 300 paid first appointments per rolling month.
+- Regulars: Delivery blocker: Delegate bounded recurring support if actual workload requires it and fees fund it.
+- Regulars: Implement: Delegate bounded recurring support if actual workload requires it and fees fund it.
+- Regulars: Venue demo / readiness / staff check: Five paying venues\; target eighty to one hundred VIPs.
+- KUDJO: Delivery blocker: Establish reliable batch invoices and merchant reactivation queue.
+- KUDJO: Verify: Establish reliable batch invoices and merchant reactivation queue.
+- Shared: Content batch / publish: Repeat the winning acquisition source with a strict marginal-cost cap.
+- Regulars: Verify: Delegate bounded recurring support if actual workload requires it and fees fund it.
+- Shared: Verify: February 6: target average KUDJO direct cost <=$13.50 per paid first appointment.
+- KUDJO: Establish reliable batch invoices and merchant reactivation queue.
+- Regulars: Delegate bounded recurring support if actual workload requires it and fees fund it.
+- KUDJO: Booked merchant visit / service walkthrough: Fourteen active merchants\; target 300 paid first appointments per rolling month.
+- Regulars: Venue physical locker/receipt/capacity review: Five paying venues\; target eighty to one hundred VIPs.
+- Shared: FOUR MONTHS CHECKPOINT: fees\, contribution and owner cash
+- KUDJO: Weekly KUDJO owner report and bottleneck: February 6: target average KUDJO direct cost <=$13.50 per paid first appointment.
+- KUDJO: Implement: Rank offers with simple rules\; compare against a basic baseline before adding models.
+- KUDJO: Owner demos / onboarding / evidence review: Grow qualified local visits and booking conversion\; separate new and repeat customers.
+- Regulars: Delivery blocker: Report fulfilled benefits\, visits and matched receipts in one owner view.
+- Regulars: Implement: Report fulfilled benefits\, visits and matched receipts in one owner view.
+- Regulars: Venue demo / readiness / staff check: Run one comparable quiet-day activation per venue with staff ownership.
+- KUDJO: Delivery blocker: Rank offers with simple rules\; compare against a basic baseline before adding models.
+- KUDJO: Verify: Rank offers with simple rules\; compare against a basic baseline before adding models.
+- Shared: Content batch / publish: Test one message at a time\; do not change offer\, audience and creative together.
+- Regulars: Verify: Report fulfilled benefits\, visits and matched receipts in one owner view.
+- Shared: Verify: Measure channel-level contribution\, booking-to-paid conversion and merchant capacity.
+- KUDJO: Rank offers with simple rules\; compare against a basic baseline before adding models.
+- Regulars: Report fulfilled benefits\, visits and matched receipts in one owner view.
+- KUDJO: Booked merchant visit / service walkthrough: Grow qualified local visits and booking conversion\; separate new and repeat customers.
+- Regulars: Venue physical locker/receipt/capacity review: Run one comparable quiet-day activation per venue with staff ownership.
+- KUDJO: Weekly KUDJO owner report and bottleneck: Measure channel-level contribution\, booking-to-paid conversion and merchant capacity.
+- KUDJO: Implement: Timebox optional identity prototype\; use approved consent and data boundaries.
+- KUDJO: Owner demos / onboarding / evidence review: Use an App Clip/Wallet prototype only if it removes measured signup friction.
+- Regulars: Delivery blocker: Pilot one convenience feature at one consenting venue without relying on passive presence.
+- Regulars: Implement: Pilot one convenience feature at one consenting venue without relying on passive presence.
+- Regulars: Venue demo / readiness / staff check: Keep QR/Core reliable\; assess NFC or Wallet convenience from staff evidence.
+- KUDJO: Delivery blocker: Timebox optional identity prototype\; use approved consent and data boundaries.
+- KUDJO: Verify: Timebox optional identity prototype\; use approved consent and data boundaries.
+- Shared: Content batch / publish: Explain the actual customer journey with one real demonstration.
+- Regulars: Verify: Pilot one convenience feature at one consenting venue without relying on passive presence.
+- Shared: Verify: Fidel never proves a social video view\; preserve clicked-link/permissioned matching evidence.
+- KUDJO: Timebox optional identity prototype\; use approved consent and data boundaries.
+- Regulars: Pilot one convenience feature at one consenting venue without relying on passive presence.
+- KUDJO: Booked merchant visit / service walkthrough: Use an App Clip/Wallet prototype only if it removes measured signup friction.
+- Regulars: Venue physical locker/receipt/capacity review: Keep QR/Core reliable\; assess NFC or Wallet convenience from staff evidence.
+- KUDJO: Weekly KUDJO owner report and bottleneck: Fidel never proves a social video view\; preserve clicked-link/permissioned matching evidence.
+- KUDJO: Implement: Use the proven setup template\; verify first invoice at each new merchant.
+- KUDJO: Owner demos / onboarding / evidence review: Sixteen merchants with paid activity\; remove campaigns that create negative margin.
+- Regulars: Delivery blocker: Stage one new venue only after readiness and training checks pass.
+- Regulars: Implement: Stage one new venue only after readiness and training checks pass.
+- Regulars: Venue demo / readiness / staff check: Six venues with staffed\, funded capacity and positive owner contribution.
+- KUDJO: Delivery blocker: Use the proven setup template\; verify first invoice at each new merchant.
+- KUDJO: Verify: Use the proven setup template\; verify first invoice at each new merchant.
+- Shared: Content batch / publish: Request permissioned introductions and reuse successful source footage.
+- Regulars: Verify: Stage one new venue only after readiness and training checks pass.
+- Shared: Verify: Replace churn\; stop adding buyers if support or inventory reconciliation fails.
+- KUDJO: Use the proven setup template\; verify first invoice at each new merchant.
+- Regulars: Stage one new venue only after readiness and training checks pass.
+- KUDJO: Booked merchant visit / service walkthrough: Sixteen merchants with paid activity\; remove campaigns that create negative margin.
+- Regulars: Venue physical locker/receipt/capacity review: Six venues with staffed\, funded capacity and positive owner contribution.
+- KUDJO: Weekly KUDJO owner report and bottleneck: Replace churn\; stop adding buyers if support or inventory reconciliation fails.
+- KUDJO: Implement: Reconcile per-channel fee retention and cost\; strengthen collection reminders.
+- KUDJO: Owner demos / onboarding / evidence review: Seventeen active merchants\; target 450 paid first appointments per rolling month.
+- Regulars: Delivery blocker: Review per-venue support effort and source-of-truth owner reports.
+- Regulars: Implement: Review per-venue support effort and source-of-truth owner reports.
+- Regulars: Venue demo / readiness / staff check: Seven paying venues\; target 120-140 VIPs.
+- KUDJO: Delivery blocker: Reconcile per-channel fee retention and cost\; strengthen collection reminders.
+- KUDJO: Verify: Reconcile per-channel fee retention and cost\; strengthen collection reminders.
+- Shared: Content batch / publish: Plan distribution from observed conversion and available merchant slots.
+- Regulars: Verify: Review per-venue support effort and source-of-truth owner reports.
+- Shared: Verify: March 6: target KUDJO direct cost <=$12.50\; calculate the owner-cash gap.
+- KUDJO: Reconcile per-channel fee retention and cost\; strengthen collection reminders.
+- Regulars: Review per-venue support effort and source-of-truth owner reports.
+- KUDJO: Booked merchant visit / service walkthrough: Seventeen active merchants\; target 450 paid first appointments per rolling month.
+- Regulars: Venue physical locker/receipt/capacity review: Seven paying venues\; target 120-140 VIPs.
+- Shared: FIVE MONTHS CHECKPOINT: fees\, contribution and owner cash
+- KUDJO: Weekly KUDJO owner report and bottleneck: March 6: target KUDJO direct cost <=$12.50\; calculate the owner-cash gap.
+- KUDJO: Implement: Remove the last repeated billing/report bottleneck.
+- KUDJO: Owner demos / onboarding / evidence review: Eighteen active merchants\; pipeline for two more plus churn replacements.
+- Regulars: Delivery blocker: Complete documented readiness and venue onboarding handoffs.
+- Regulars: Implement: Complete documented readiness and venue onboarding handoffs.
+- Regulars: Venue demo / readiness / staff check: Eight paid venues\; secure owner champions for venues nine and ten.
+- KUDJO: Delivery blocker: Remove the last repeated billing/report bottleneck.
+- KUDJO: Verify: Remove the last repeated billing/report bottleneck.
+- Shared: Content batch / publish: Use one exact case study per buyer type\; avoid generic promises.
+- Regulars: Verify: Complete documented readiness and venue onboarding handoffs.
+- Shared: Verify: Every new deal has an operating owner\, first-sale evidence plan and next review date.
+- KUDJO: Remove the last repeated billing/report bottleneck.
+- Regulars: Complete documented readiness and venue onboarding handoffs.
+- KUDJO: Booked merchant visit / service walkthrough: Eighteen active merchants\; pipeline for two more plus churn replacements.
+- Regulars: Venue physical locker/receipt/capacity review: Eight paid venues\; secure owner champions for venues nine and ten.
+- KUDJO: Weekly KUDJO owner report and bottleneck: Every new deal has an operating owner\, first-sale evidence plan and next review date.
+- KUDJO: Implement: Reconcile a sample from source click through paid fee and refund adjustment.
+- KUDJO: Owner demos / onboarding / evidence review: Track fees\, refunds\, paid distribution and production by campaign.
+- Regulars: Delivery blocker: Match membership\, locker assignment\, visits and bottle/food receipts without duplicates.
+- Regulars: Implement: Match membership\, locker assignment\, visits and bottle/food receipts without duplicates.
+- Regulars: Venue demo / readiness / staff check: Verify support cost stays within two hours per venue per month or reprice.
+- KUDJO: Delivery blocker: Reconcile a sample from source click through paid fee and refund adjustment.
+- KUDJO: Verify: Reconcile a sample from source click through paid fee and refund adjustment.
+- Shared: Content batch / publish: Keep profitable campaigns active\; pause over-budget acquisition.
+- Regulars: Verify: Match membership\, locker assignment\, visits and bottle/food receipts without duplicates.
+- Shared: Verify: KUDJO blended cost must approach $12\; Regulars costs must include actual paid help.
+- KUDJO: Reconcile a sample from source click through paid fee and refund adjustment.
+- Regulars: Match membership\, locker assignment\, visits and bottle/food receipts without duplicates.
+- KUDJO: Booked merchant visit / service walkthrough: Track fees\, refunds\, paid distribution and production by campaign.
+- Regulars: Venue physical locker/receipt/capacity review: Verify support cost stays within two hours per venue per month or reprice.
+- KUDJO: Weekly KUDJO owner report and bottleneck: KUDJO blended cost must approach $12\; Regulars costs must include actual paid help.
+- KUDJO: Implement: Verify all active merchants can handle the promised appointment volume.
+- KUDJO: Owner demos / onboarding / evidence review: Nineteen active merchants\; target pace for 600 paid first appointments.
+- Regulars: Delivery blocker: Confirm installed locker capacity and staff coverage before taking the next account.
+- Regulars: Implement: Confirm installed locker capacity and staff coverage before taking the next account.
+- Regulars: Venue demo / readiness / staff check: Nine paying venues\; finish venue ten readiness.
+- KUDJO: Delivery blocker: Verify all active merchants can handle the promised appointment volume.
+- KUDJO: Verify: Verify all active merchants can handle the promised appointment volume.
+- Shared: Content batch / publish: Batch next-month campaigns from live availability and true offers.
+- Regulars: Verify: Confirm installed locker capacity and staff coverage before taking the next account.
+- Shared: Verify: Model a weaker month and reconcile cash reserves before increasing owner draws.
+- KUDJO: Verify all active merchants can handle the promised appointment volume.
+- Regulars: Confirm installed locker capacity and staff coverage before taking the next account.
+- KUDJO: Booked merchant visit / service walkthrough: Nineteen active merchants\; target pace for 600 paid first appointments.
+- Regulars: Venue physical locker/receipt/capacity review: Nine paying venues\; finish venue ten readiness.
+- KUDJO: Weekly KUDJO owner report and bottleneck: Model a weaker month and reconcile cash reserves before increasing owner draws.
+- KUDJO: Implement: Collect earned invoices\; resolve remaining disputed or refunded bookings.
+- KUDJO: Owner demos / onboarding / evidence review: Twenty active merchants\; work toward 600 paid first appointments across the rolling month.
+- Regulars: Delivery blocker: Reconcile earned Regulars fees and renewal decisions at all ten venues.
+- Regulars: Implement: Reconcile earned Regulars fees and renewal decisions at all ten venues.
+- Regulars: Venue demo / readiness / staff check: Ten paying venues\; target 150-200 VIPs in real sellable capacity.
+- KUDJO: Delivery blocker: Collect earned invoices\; resolve remaining disputed or refunded bookings.
+- KUDJO: Verify: Collect earned invoices\; resolve remaining disputed or refunded bookings.
+- Shared: Content batch / publish: Maintain proven distribution\; no new broad feature launch this week.
+- Regulars: Verify: Reconcile earned Regulars fees and renewal decisions at all ten venues.
+- Shared: Verify: April 4: audit rolling-month owner cash\, costs\, liabilities and retained operating reserve.
+- KUDJO: Collect earned invoices\; resolve remaining disputed or refunded bookings.
+- Regulars: Reconcile earned Regulars fees and renewal decisions at all ten venues.
+- KUDJO: Booked merchant visit / service walkthrough: Twenty active merchants\; work toward 600 paid first appointments across the rolling month.
+- Regulars: Venue physical locker/receipt/capacity review: Ten paying venues\; target 150-200 VIPs in real sellable capacity.
+- KUDJO: Weekly KUDJO owner report and bottleneck: April 4: audit rolling-month owner cash\, costs\, liabilities and retained operating reserve.
+- KUDJO: Implement: Reconcile bank collections against earned fees and creator/refund obligations.
+- KUDJO: Owner demos / onboarding / evidence review: April 6: confirm 600 verified paid first appointments\, retained fees and positive measured margin.
+- Regulars: Delivery blocker: Complete owner reviews and next-month renewals\; resolve unmatched records.
+- Regulars: Implement: Complete owner reviews and next-month renewals\; resolve unmatched records.
+- Regulars: Venue demo / readiness / staff check: April 6: confirm ten paying venues\, service capacity and verified fees.
+- KUDJO: Delivery blocker: Reconcile bank collections against earned fees and creator/refund obligations.
+- Shared: SIX MONTHS CHECKPOINT: fees\, contribution and owner cash
